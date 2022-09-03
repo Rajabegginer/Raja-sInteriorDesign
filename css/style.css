@@ -81,7 +81,7 @@ header {
     display: block;
     text-align: center;
     font-weight: bold;
-    display:block;
+    display:none;
 }
 
 #overlay {
